@@ -1,6 +1,22 @@
-# travel_app
+<h1 align="center">
+    <br>
+    Travel App in Flutter
+</h1>
+<h4 align="start">
+ This is a basic mobile application that uses the flutter framework to create a clone of the Tik Tok App.
+</h4>
 
-A new Flutter project.
+### Some Screenshots
+
+<p align="left">
+<img src="img/1.jpg" width="150" hight="600" />
+<img src="img/2.jpg" width="150" hight="600" />
+<img src="img/3.jpg" width="150" hight="600" />
+  
+</p>
+
+
+
 
 ## Getting Started
 
